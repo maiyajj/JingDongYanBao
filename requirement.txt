@@ -1,0 +1,5 @@
+scrapy
+xlwt
+bs4
+mysql-connector-python
+pypiwin32
